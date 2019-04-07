@@ -3,8 +3,12 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
+<<<<<<< HEAD
   return value
 end
+=======
+
+>>>>>>> f121832000fd0adcaccd1344513f2fbda6137eeb
 
 def argue(arguement)
   return arguement
